@@ -79,6 +79,6 @@ This project is based on the tutorial provided by [lablab.ai](https://lablab.ai/
 
 - [Langchain](https://github.com/hwchase17/langchain) for building language model chains.
 - [DuckDuckGo](https://duckduckgo.com/) for web search functionality.
-- [Wolfram Alpha](https://products.wolframalpha.com/api/) for solving mathematical problems.
+- [Wolfram Alpha](https://products.wolframalpha.com/api/) for solving complex mathematical problems.
 
 For more details, please refer to the [tutorial](https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them).
